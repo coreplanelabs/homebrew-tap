@@ -12,8 +12,8 @@ class Polylane < Formula
   homepage "https://polylane.com"
   # Scoped npm tarball URL. Note the tarball filename after `/-/` uses the
   # unscoped basename (polylane), not the full scoped name.
-  url "https://registry.npmjs.org/@coreplane/polylane/-/polylane-0.2.3.tgz"
-  sha256 "cc9e781c3426011bd2bebabf4e4678e8faf5ef4eb8c4b3d2c45a9277751cc2c5"
+  url "https://registry.npmjs.org/@coreplane/polylane/-/polylane-0.2.4.tgz"
+  sha256 "090a1391680cfbb4982f60753ce496766350c3bd3349dafce7941dacfc166369"
   license "MIT"
 
   depends_on "node"
